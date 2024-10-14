@@ -1,4 +1,4 @@
-L# LeetCode SQL 50 Questions: Databricks Notebook Solutions (SQL & PySpark)
+# LeetCode SQL 50 Questions: Databricks Notebook Solutions (SQL & PySpark)
 
 Welcome to my LeetCode SQL 50 Questions repository! This project showcases my solutions to LeetCode's top 50 SQL questions, implemented in Databricks notebooks. Each notebook contains both SQL and PySpark solutions, allowing me to practice data manipulation techniques in both languages.
 
